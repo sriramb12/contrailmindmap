@@ -1,7 +1,7 @@
 # contrailmindmap
 ## mind map for contrail troubleshooting
   - After careful review of each case, update the mindmap.
-    It should help in machine learning strategy
+    It should help in evolving a suitable machine learning strategy
 
 
 # Objective
